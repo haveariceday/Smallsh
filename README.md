@@ -17,7 +17,7 @@ In this assignment you will write smallsh your own shell in C. smallsh will impl
 
 
 #### How to Run and Exit
-Make sure that you have an environment where you can run C program. There are one of two ways to run the project.
+Make sure that you have an environment where you can run C program. There are two ways to run the project.
 1. With the attached the makefile.
 ```sh
 make
